@@ -20,6 +20,4 @@ Materia "*" o-- Materia
 Alumno o-- "*" Materia
 Inscripcion *-- Alumno
 Inscripcion *-- "*" Materia
-
-
 @enduml
