@@ -1,9 +1,6 @@
-package dds.frba.utn.edu.ar;
-
-import static java.lang.Boolean.TRUE;
+package ar.edu.utn.frba.dds;
 
 import java.util.Collection;
-import java.util.Collections;
 
 public class Inscripcion {
   private Alumno alumno;

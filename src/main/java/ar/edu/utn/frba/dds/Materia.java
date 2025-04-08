@@ -1,9 +1,8 @@
-package dds.frba.utn.edu.ar;
+package ar.edu.utn.frba.dds;
 
 import static java.util.Collections.EMPTY_SET;
 
 import java.util.Collection;
-import java.util.Collections;
 
 public class Materia {
   private final String nombre;

@@ -1,4 +1,4 @@
-package dds.frba.utn.edu.ar;
+package ar.edu.utn.frba.dds;
 
 import static java.util.Set.of;
 import static org.junit.jupiter.api.Assertions.assertFalse;
